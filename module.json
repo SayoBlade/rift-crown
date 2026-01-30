@@ -7,7 +7,7 @@
   "compatibility": { "minimum": "13", "verified": "13" },
   "system": ["dnd5e"],
   "url": "https://github.com/SayoBlade/rift-crown",
-  "manifest": "https://raw.githubusercontent.com/SayoBlade/rift-crown/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/SayoBlade/rift-crown/main/module.json"
   "download": "https://github.com/SayoBlade/rift-crown/releases/download/v0.0.2/rift-crown-v0.0.2.zip",
   "packs": []
 }
