@@ -1,0 +1,21 @@
+{
+  "id": "rift-crown",
+  "title": "Rift Crown",
+  "description": "Rift Crown campaign canon compendiums (Actors, Journals, Locations).",
+  "version": "0.0.1",
+  "authors": [
+    { "name": "SayoBlade" }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      { "id": "dnd5e", "type": "system" }
+    ]
+  },
+  "manifest": "https://raw.githubusercontent.com/SayoBlade/rift-crown/main/rift-crown/module.json",
+  "download": "https://github.com/SayoBlade/rift-crown/releases/download/v0.0.1/rift-crown-v0.0.1.zip",
+  "packs": []
+}
